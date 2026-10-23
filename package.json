@@ -1,0 +1,10 @@
+{
+  "name": "local-wcs-proxy",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local proxy for factory-wcs-dispatcher",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
